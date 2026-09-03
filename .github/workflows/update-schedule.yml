@@ -1,0 +1,30 @@
+name: Update Schedule
+
+on:
+  repository_dispatch:
+    types: [update_schedule]
+
+permissions:
+  contents: write
+
+jobs:
+  update-schedule:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Write schedule.json
+        env:
+          SCHEDULE_JSON: ${{ toJson(github.event.client_payload) }}
+        run: |
+          printf '%s\n' "$SCHEDULE_JSON" > schedule.json
+
+      - name: Commit updated schedule
+        run: |
+          git config user.name "UCS Schedule Automation"
+          git config user.email "actions@github.com"
+          git add schedule.json
+          git diff --cached --quiet || git commit -m "Update group therapy schedule"
+          git push

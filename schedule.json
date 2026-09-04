@@ -6,7 +6,7 @@
       "Day": "MON",
       "Facilitator": "Michelle",
       "Group": "SAGE (Referral Only)",
-      "ItemInternalId": "27ed096d-dbd8-4650-a527-9dc4c9d86a1c",
+      "ItemInternalId": "59bc5100-2049-4a6a-845c-d57671dbf6f7",
       "LocationOrZoom": "857 7192 0467",
       "SortOrder": "1",
       "Time": "5:00pm-7:00pm"
@@ -17,7 +17,7 @@
       "Day": "TUES",
       "Facilitator": "Brendan/Tyler",
       "Group": "Healthy Relationships",
-      "ItemInternalId": "78fd3908-29aa-413c-b22b-a4fa01fd9b04",
+      "ItemInternalId": "54c0a6a8-ba20-4779-aeeb-1695592ee667",
       "LocationOrZoom": "847 7446 5240",
       "SortOrder": "2",
       "Time": "11:00am-12:00pm"
@@ -28,7 +28,7 @@
       "Day": "TUES",
       "Facilitator": "Brendan/Tyler",
       "Group": "Relapse Prevention",
-      "ItemInternalId": "bd9d7e14-9c2d-4ee2-bef7-ec797761784c",
+      "ItemInternalId": "595b07ee-2f54-4b92-a34b-f3c14e556e37",
       "LocationOrZoom": "847 7446 5240",
       "SortOrder": "3",
       "Time": "12:00pm-1:00pm"
@@ -39,7 +39,7 @@
       "Day": "TUES",
       "Facilitator": "Desiree/Leandra",
       "Group": "Wellness and Recovery",
-      "ItemInternalId": "20488806-37b0-4804-85c0-cb245cadc183",
+      "ItemInternalId": "bea4a7d2-9b08-4a17-9d52-8319f6e8cab4",
       "LocationOrZoom": "843 0248 9401",
       "SortOrder": "4",
       "Time": "5:00pm-6:00pm"
@@ -50,7 +50,7 @@
       "Day": "TUES",
       "Facilitator": "Desiree/Leandra",
       "Group": "Anger and Beyond",
-      "ItemInternalId": "484eff4f-b78c-4990-a895-d1eed99a254f",
+      "ItemInternalId": "5aba10bb-097d-46ba-8fff-422913f1cec8",
       "LocationOrZoom": "843 0248 9401",
       "SortOrder": "5",
       "Time": "6:00pm-7:00pm"
@@ -61,7 +61,7 @@
       "Day": "TUES",
       "Facilitator": "Kat",
       "Group": "TAC (Referral Only)",
-      "ItemInternalId": "7c3a5200-e821-4c51-9ab4-d925210c14ed",
+      "ItemInternalId": "e0c30e78-4259-47ce-b196-0c54f5cfe97a",
       "LocationOrZoom": "857 7192 0467",
       "SortOrder": "6",
       "Time": "6:00pm-8:00pm"
@@ -72,7 +72,7 @@
       "Day": "TUES",
       "Facilitator": "Gabriel",
       "Group": "Viviendo en Equilibrio (solo referencia)",
-      "ItemInternalId": "3317dcb3-fa5a-488b-b768-c5dcb664c405",
+      "ItemInternalId": "5c762a6c-da17-4b26-9111-342776eaefbf",
       "LocationOrZoom": "864 7694 6812",
       "SortOrder": "7",
       "Time": "7:00pm-9:00pm"
@@ -83,7 +83,7 @@
       "Day": "WED",
       "Facilitator": "Terri/Intern",
       "Group": "Art",
-      "ItemInternalId": "683789f3-0b02-49b5-8f82-1309e5472ef4",
+      "ItemInternalId": "1d7cc24d-3be2-43a3-8ad2-9f6c23be469b",
       "LocationOrZoom": "Ankeny",
       "SortOrder": "8",
       "Time": "10:00am-11:00am"
@@ -94,7 +94,7 @@
       "Day": "WED",
       "Facilitator": "Terri/Intern",
       "Group": "Art",
-      "ItemInternalId": "9d05a520-d7b7-4e45-b625-10415104c3c5",
+      "ItemInternalId": "b23317aa-7ae1-4b40-8239-0b54919fa3fc",
       "LocationOrZoom": "Ankeny",
       "SortOrder": "9",
       "Time": "11:00am-12:00pm"
@@ -105,7 +105,7 @@
       "Day": "WED",
       "Facilitator": "Intern/Intern",
       "Group": "RPF (Referral Only)",
-      "ItemInternalId": "88f05545-9006-47f6-be98-8f23c32dba7a",
+      "ItemInternalId": "f368fc93-f03c-4be9-a90f-3adadf2cb8d4",
       "LocationOrZoom": "857 7192 0467",
       "SortOrder": "10",
       "Time": "5:00pm-7:00pm"
@@ -116,7 +116,7 @@
       "Day": "WED",
       "Facilitator": "Gabriel",
       "Group": "Prevención de Recaídas (solo referencia)",
-      "ItemInternalId": "69ade048-47a1-476b-8784-19732881cf80",
+      "ItemInternalId": "912a0448-5c35-44cb-a59b-fc3ead5e509e",
       "LocationOrZoom": "864 7694 6812",
       "SortOrder": "11",
       "Time": "7:00pm-8:00pm"
@@ -127,7 +127,7 @@
       "Day": "THUR",
       "Facilitator": "Hanna/Desiree",
       "Group": "MEE Series",
-      "ItemInternalId": "1a1977ff-cd4a-4070-bce7-39f3981b8cbe",
+      "ItemInternalId": "4b2478eb-7762-4cd6-868f-b33be11152b3",
       "LocationOrZoom": "814 3949 7207",
       "SortOrder": "12",
       "Time": "11:00am-12:00pm"
@@ -138,7 +138,7 @@
       "Day": "THUR",
       "Facilitator": "Hanna/Desiree",
       "Group": "MEE Series",
-      "ItemInternalId": "31770fb8-4f4c-4247-99e4-327fd1a28c10",
+      "ItemInternalId": "070ed086-10ea-4e6e-aeb2-b553f79b6854",
       "LocationOrZoom": "814 3949 7207",
       "SortOrder": "13",
       "Time": "12:00pm-1:00pm"
@@ -149,7 +149,7 @@
       "Day": "THUR",
       "Facilitator": "Leandra/Kaitlin",
       "Group": "Living in Balance 1",
-      "ItemInternalId": "71900227-f718-4e5e-9da1-c4d7483c13dc",
+      "ItemInternalId": "556e39d6-e3f5-4823-89b6-bc650cc4a28e",
       "LocationOrZoom": "859 2478 6014",
       "SortOrder": "14",
       "Time": "5:00pm-6:00pm"
@@ -160,7 +160,7 @@
       "Day": "THUR",
       "Facilitator": "Leandra/Kaitlin",
       "Group": "Living in Balance 2",
-      "ItemInternalId": "3b707b43-d65b-4384-bce0-c78a8fd9c537",
+      "ItemInternalId": "04714464-adcb-4026-9933-34ec8d0732cf",
       "LocationOrZoom": "859 2478 6014",
       "SortOrder": "15",
       "Time": "6:00pm-7:00pm"
@@ -173,7 +173,7 @@
       "Day": "MON",
       "Facilitator": "Michelle",
       "Group": "SAGE (Referral Only)",
-      "ItemInternalId": "4ce7a1f0-e661-4245-8ccc-1b17f28e8fc2",
+      "ItemInternalId": "5410bfe4-ae4e-4b92-8378-86771422cfe9",
       "LocationOrZoom": "857 7192 0467",
       "SortOrder": "1",
       "Time": "5:00pm-7:00pm"
@@ -184,7 +184,7 @@
       "Day": "TUES",
       "Facilitator": "Brendan/Tyler",
       "Group": "Healthy Relationships",
-      "ItemInternalId": "7b52f927-a65e-4a01-8b2e-8a4b42692018",
+      "ItemInternalId": "3ee08141-a5a0-45a0-8cb9-3748d63cd3a5",
       "LocationOrZoom": "847 7446 5240",
       "SortOrder": "2",
       "Time": "11:00am-12:00pm"
@@ -195,7 +195,7 @@
       "Day": "TUES",
       "Facilitator": "Brendan/Tyler",
       "Group": "Relapse Prevention",
-      "ItemInternalId": "b2549823-a48c-44f7-9aef-91df4e61a188",
+      "ItemInternalId": "64c1ca55-2437-4146-8500-555f767f542c",
       "LocationOrZoom": "847 7446 5240",
       "SortOrder": "3",
       "Time": "12:00pm-1:00pm"
@@ -206,7 +206,7 @@
       "Day": "TUES",
       "Facilitator": "Desiree/Leandra",
       "Group": "Wellness and Recovery",
-      "ItemInternalId": "fa9b7571-6052-4fb2-86e4-9a8f6e764540",
+      "ItemInternalId": "c4f47d42-2f3a-4e45-bdec-caa22c758145",
       "LocationOrZoom": "843 0248 9401",
       "SortOrder": "4",
       "Time": "5:00pm-6:00pm"
@@ -217,7 +217,7 @@
       "Day": "TUES",
       "Facilitator": "Desiree/Leandra",
       "Group": "Anger and Beyond",
-      "ItemInternalId": "852c0691-57bb-4a85-8c38-90a2a8b205f2",
+      "ItemInternalId": "df4ce126-bedc-4a5e-b371-37ea0495790a",
       "LocationOrZoom": "843 0248 9401",
       "SortOrder": "5",
       "Time": "6:00pm-7:00pm"
@@ -228,7 +228,7 @@
       "Day": "TUES",
       "Facilitator": "Kat",
       "Group": "TAC (Referral Only)",
-      "ItemInternalId": "642e510c-7f4b-4697-805c-43119b693ff0",
+      "ItemInternalId": "29d78a2f-c3e4-4cd0-b9e8-e454119c756b",
       "LocationOrZoom": "857 7192 0467",
       "SortOrder": "6",
       "Time": "6:00pm-8:00pm"
@@ -239,7 +239,7 @@
       "Day": "TUES",
       "Facilitator": "Gabriel",
       "Group": "Viviendo en Equilibrio (solo referencia)",
-      "ItemInternalId": "2860423c-9472-4c1e-b4eb-2735e3cd9986",
+      "ItemInternalId": "77cf6448-f53b-4147-a94d-c11e43273c9a",
       "LocationOrZoom": "864 7694 6812",
       "SortOrder": "7",
       "Time": "7:00pm-9:00pm"
@@ -250,7 +250,7 @@
       "Day": "WED",
       "Facilitator": "Kaitlin/Kim",
       "Group": "Relapse Prevention",
-      "ItemInternalId": "cae447aa-e6d5-4482-b7bc-f39e0cb7f1f3",
+      "ItemInternalId": "e296e037-fb0b-46c1-bfbb-f108f873efb8",
       "LocationOrZoom": "Knoxville",
       "SortOrder": "8",
       "Time": "10:00am-11:00am"
@@ -261,7 +261,7 @@
       "Day": "WED",
       "Facilitator": "Kaitlin/Kim",
       "Group": "Coping Skills",
-      "ItemInternalId": "e9bb6b79-1d34-4683-b7af-ef7348379984",
+      "ItemInternalId": "78cacf1c-9f35-4f85-aa5a-cc2993473fd7",
       "LocationOrZoom": "Knoxville",
       "SortOrder": "9",
       "Time": "11:00am-12:00pm"
@@ -272,7 +272,7 @@
       "Day": "WED",
       "Facilitator": "Intern/Intern",
       "Group": "RPF (Referral Only)",
-      "ItemInternalId": "5d8d704a-a504-4e21-a5d5-faf1a8ce5d1e",
+      "ItemInternalId": "c783eaca-3944-4478-b23e-d15942c40a14",
       "LocationOrZoom": "857 7192 0467",
       "SortOrder": "10",
       "Time": "5:00pm-7:00pm"
@@ -283,7 +283,7 @@
       "Day": "WED",
       "Facilitator": "Gabriel",
       "Group": "Prevención de Recaídas (solo referencia)",
-      "ItemInternalId": "4a821bd4-c4ee-48f6-8090-99bf8e954589",
+      "ItemInternalId": "f2302657-ec7e-489b-9a40-363fbd6fb639",
       "LocationOrZoom": "864 7694 6812",
       "SortOrder": "11",
       "Time": "7:00pm-8:00pm"
@@ -294,7 +294,7 @@
       "Day": "THUR",
       "Facilitator": "Hanna/Desiree",
       "Group": "MEE Series",
-      "ItemInternalId": "65bd5a57-57b4-4c43-b616-12b652e16a9b",
+      "ItemInternalId": "5cf2130e-0ca1-4783-981d-148267922c33",
       "LocationOrZoom": "814 3949 7207",
       "SortOrder": "12",
       "Time": "11:00am-12:00pm"
@@ -305,7 +305,7 @@
       "Day": "THUR",
       "Facilitator": "Hanna/Desiree",
       "Group": "MEE Series",
-      "ItemInternalId": "5186af47-1106-47a2-a5d9-d367d3038bca",
+      "ItemInternalId": "d5287219-221c-4c0a-be40-1bb4a6295684",
       "LocationOrZoom": "814 3949 7207",
       "SortOrder": "13",
       "Time": "12:00pm-1:00pm"
@@ -316,7 +316,7 @@
       "Day": "THUR",
       "Facilitator": "Leandra/Kaitlin",
       "Group": "Living in Balance 1",
-      "ItemInternalId": "aec02ff9-123b-4b33-b026-6999d29ea012",
+      "ItemInternalId": "b00bfabd-16cc-48e0-b0f3-451f85aa7014",
       "LocationOrZoom": "859 2478 6014",
       "SortOrder": "14",
       "Time": "5:00pm-6:00pm"
@@ -327,7 +327,7 @@
       "Day": "THUR",
       "Facilitator": "Leandra/Kaitlin",
       "Group": "Living in Balance 2",
-      "ItemInternalId": "181059ca-ee69-48c4-90fa-64b2443db7f8",
+      "ItemInternalId": "aad6d971-a20e-4696-97ab-8231c3f2458e",
       "LocationOrZoom": "859 2478 6014",
       "SortOrder": "15",
       "Time": "6:00pm-7:00pm"
@@ -340,7 +340,7 @@
       "Day": "MON",
       "Facilitator": "Kat/Intern",
       "Group": "Orientation",
-      "ItemInternalId": "b29e93d5-c60f-4bf7-a225-b3edf9e71230",
+      "ItemInternalId": "a9f182c7-83e0-4e63-914b-dde21e5f24d8",
       "LocationOrZoom": "WDM",
       "SortOrder": "1",
       "Time": "10:00am-11:00am"
@@ -351,7 +351,7 @@
       "Day": "MON",
       "Facilitator": "Kat/Intern",
       "Group": "Coping Skills",
-      "ItemInternalId": "d3e10d03-5a3d-4a15-9f28-c1ff55d2b309",
+      "ItemInternalId": "bf306ab5-9606-45bd-8cd6-d4ea2d9200df",
       "LocationOrZoom": "WDM",
       "SortOrder": "2",
       "Time": "11:00am-12:00pm"
@@ -362,7 +362,7 @@
       "Day": "MON",
       "Facilitator": "Kat/Intern",
       "Group": "Relapse Prevention",
-      "ItemInternalId": "c8c6c98b-8ed2-469e-85c9-8f97055dc680",
+      "ItemInternalId": "dd47f5fa-7f71-4689-b6ff-0bd24a0c9227",
       "LocationOrZoom": "WDM",
       "SortOrder": "3",
       "Time": "12:00pm-1:00pm"
@@ -373,7 +373,7 @@
       "Day": "MON",
       "Facilitator": "Heather/Intern",
       "Group": "Coping Skills",
-      "ItemInternalId": "ea87847d-26ca-4884-9688-30aee456cb26",
+      "ItemInternalId": "9a591dba-72c9-46aa-aeb6-8aefb8a1e0b0",
       "LocationOrZoom": "WDM",
       "SortOrder": "4",
       "Time": "3:00pm-4:00pm"
@@ -384,7 +384,7 @@
       "Day": "MON",
       "Facilitator": "Heather/Intern",
       "Group": "Relapse Prevention",
-      "ItemInternalId": "29d5226d-2572-4a9b-8412-b28a92abc127",
+      "ItemInternalId": "7d545312-9428-474a-b806-61362b43f2e7",
       "LocationOrZoom": "WDM",
       "SortOrder": "5",
       "Time": "4:00pm-5:00pm"
@@ -395,7 +395,7 @@
       "Day": "MON",
       "Facilitator": "Heather/Intern",
       "Group": "Orientation",
-      "ItemInternalId": "bf289049-6504-4e44-840b-cbd53d35cdc0",
+      "ItemInternalId": "a7062545-236f-438a-b724-0c8a2bbaa939",
       "LocationOrZoom": "WDM",
       "SortOrder": "6",
       "Time": "5:00pm-6:00pm"
@@ -406,7 +406,7 @@
       "Day": "MON",
       "Facilitator": "Michelle",
       "Group": "SAGE (Referral Only)",
-      "ItemInternalId": "7d11922f-8de1-4416-b04f-822d66e70e53",
+      "ItemInternalId": "a251ce79-7e94-4d29-b59a-c3445811cb60",
       "LocationOrZoom": "857 7192 0467",
       "SortOrder": "7",
       "Time": "5:00pm-7:00pm"
@@ -417,7 +417,7 @@
       "Day": "TUES",
       "Facilitator": "Brendan/Tyler",
       "Group": "Healthy Relationships",
-      "ItemInternalId": "29f0bdb4-9e2f-49ae-895e-e08d5d0ef2cb",
+      "ItemInternalId": "b90e0867-1c65-4d7c-bc03-43ae0fb39bec",
       "LocationOrZoom": "847 7446 5240",
       "SortOrder": "8",
       "Time": "11:00am-12:00pm"
@@ -428,7 +428,7 @@
       "Day": "TUES",
       "Facilitator": "Brendan/Tyler",
       "Group": "Relapse Prevention",
-      "ItemInternalId": "2c18bf08-1f4b-402f-a19f-c2e98be05187",
+      "ItemInternalId": "0f503035-227b-46c7-8cfc-397439cb7eae",
       "LocationOrZoom": "847 7446 5240",
       "SortOrder": "9",
       "Time": "12:00pm-1:00pm"
@@ -439,7 +439,7 @@
       "Day": "TUES",
       "Facilitator": "Desiree/Leandra",
       "Group": "Wellness and Recovery",
-      "ItemInternalId": "a51a64a3-7858-4b75-b210-f5d972b3b15b",
+      "ItemInternalId": "ff55113e-8cb3-4d6c-b007-f66ce3733bd1",
       "LocationOrZoom": "843 0248 9401",
       "SortOrder": "10",
       "Time": "5:00pm-6:00pm"
@@ -450,7 +450,7 @@
       "Day": "TUES",
       "Facilitator": "Desiree/Leandra",
       "Group": "Anger and Beyond",
-      "ItemInternalId": "7d111b26-c586-4f73-83ea-d99e7c1edeb7",
+      "ItemInternalId": "d107f83c-9864-4cc5-ba6f-1367e68ad168",
       "LocationOrZoom": "843 0248 9401",
       "SortOrder": "11",
       "Time": "6:00pm-7:00pm"
@@ -461,7 +461,7 @@
       "Day": "TUES",
       "Facilitator": "Kat",
       "Group": "TAC (Referral Only)",
-      "ItemInternalId": "00bb0461-d60b-4fe4-b9f7-15f3c9fae2f0",
+      "ItemInternalId": "9611a554-bfb5-4bcb-8182-bee9bfa4168b",
       "LocationOrZoom": "857 7192 0467",
       "SortOrder": "12",
       "Time": "6:00pm-8:00pm"
@@ -472,7 +472,7 @@
       "Day": "TUES",
       "Facilitator": "Gabriel",
       "Group": "Viviendo en Equilibrio (solo referencia)",
-      "ItemInternalId": "f58d7a3b-2f2b-4246-b697-8bb5ccc04bfc",
+      "ItemInternalId": "1cb41077-dd4a-4f84-804c-5aed7cb950ef",
       "LocationOrZoom": "864 7694 6812",
       "SortOrder": "13",
       "Time": "7:00pm-9:00pm"
@@ -483,7 +483,7 @@
       "Day": "WED",
       "Facilitator": "Brendan/Hanna",
       "Group": "MEE Series/Sober Rec",
-      "ItemInternalId": "5a4d5a1b-2c6b-4ee2-8f10-c417900055ba",
+      "ItemInternalId": "5740562b-75e8-471f-948a-47a2d0ee80fd",
       "LocationOrZoom": "WDM",
       "SortOrder": "14",
       "Time": "4:00pm-5:00pm"
@@ -494,7 +494,7 @@
       "Day": "WED",
       "Facilitator": "Brendan/Hanna",
       "Group": "MEE Series/Sober Rec",
-      "ItemInternalId": "1768aadb-5f7f-46bf-9853-a9392de74dec",
+      "ItemInternalId": "501bd93e-9af8-4ec2-8aa1-a1cb49a5a3dd",
       "LocationOrZoom": "WDM",
       "SortOrder": "15",
       "Time": "5:00pm-6:00pm"
@@ -505,7 +505,7 @@
       "Day": "WED",
       "Facilitator": "Intern/Intern",
       "Group": "RPF (Referral Only)",
-      "ItemInternalId": "4f5431d9-71fb-41c1-a77d-10d69c781af4",
+      "ItemInternalId": "f51ce8e7-bb3e-4898-877d-4b91bd09e3b1",
       "LocationOrZoom": "857 7192 0467",
       "SortOrder": "16",
       "Time": "5:00pm-7:00pm"
@@ -516,7 +516,7 @@
       "Day": "WED",
       "Facilitator": "Brendan/Hanna",
       "Group": "MEE Series",
-      "ItemInternalId": "f5961ba7-4ed1-4ced-9ede-81e4ec23bb4e",
+      "ItemInternalId": "b4244217-c58a-476c-8c3d-8425b3e45192",
       "LocationOrZoom": "WDM",
       "SortOrder": "17",
       "Time": "6:00pm-7:00pm"
@@ -527,7 +527,7 @@
       "Day": "WED",
       "Facilitator": "Gabriel",
       "Group": "Prevención de Recaídas (solo referencia)",
-      "ItemInternalId": "2852fc65-fc7f-4bcf-ac57-c837b8114fad",
+      "ItemInternalId": "be0b103b-99dc-449d-befb-e22e8607d531",
       "LocationOrZoom": "864 7694 6812",
       "SortOrder": "18",
       "Time": "7:00pm-8:00pm"
@@ -538,7 +538,7 @@
       "Day": "THUR",
       "Facilitator": "Hanna/Desiree",
       "Group": "MEE Series",
-      "ItemInternalId": "682e3bb8-adf5-4bbd-b697-b5b3d68b536f",
+      "ItemInternalId": "ba59a279-c8ec-42e8-bf6b-1c749715ead4",
       "LocationOrZoom": "814 3949 7207",
       "SortOrder": "19",
       "Time": "11:00am-12:00pm"
@@ -549,7 +549,7 @@
       "Day": "THUR",
       "Facilitator": "Hanna/Desiree",
       "Group": "MEE Series",
-      "ItemInternalId": "193e47df-8f3e-4da0-b8db-19e0222b0578",
+      "ItemInternalId": "59cc209f-0e93-4f37-91a5-98ee6e62da3b",
       "LocationOrZoom": "814 3949 7207",
       "SortOrder": "20",
       "Time": "12:00pm-1:00pm"
@@ -560,7 +560,7 @@
       "Day": "THUR",
       "Facilitator": "Leandra/Kaitlin",
       "Group": "Living in Balance 1",
-      "ItemInternalId": "cb2b74b6-e96a-4a13-9d95-36ad4ea89125",
+      "ItemInternalId": "90ed179a-3854-48a3-9fa8-8654cbd51259",
       "LocationOrZoom": "859 2478 6014",
       "SortOrder": "21",
       "Time": "5:00pm-6:00pm"
@@ -571,7 +571,7 @@
       "Day": "THUR",
       "Facilitator": "Leandra/Kaitlin",
       "Group": "Living in Balance 2",
-      "ItemInternalId": "5abae658-8513-41bb-b459-1ae4364a290a",
+      "ItemInternalId": "7c72caed-0f03-4a23-9b79-21ca64ce4168",
       "LocationOrZoom": "859 2478 6014",
       "SortOrder": "22",
       "Time": "6:00pm-7:00pm"
@@ -582,7 +582,7 @@
       "Day": "FRI",
       "Facilitator": "Dan/Intern",
       "Group": "CBT",
-      "ItemInternalId": "bcdff546-63a7-43a0-b848-592f61fc62a0",
+      "ItemInternalId": "69056fa9-08fb-497a-8eca-e33a82770200",
       "LocationOrZoom": "WDM",
       "SortOrder": "23",
       "Time": "11:00am-12:00pm"
@@ -593,7 +593,7 @@
       "Day": "FRI",
       "Facilitator": "Dan/Intern",
       "Group": "Living in Balance 3",
-      "ItemInternalId": "be4e167d-61ef-40be-963d-f37f10c37e8e",
+      "ItemInternalId": "f7acb655-458d-4cab-88c0-2be18e097e52",
       "LocationOrZoom": "WDM",
       "SortOrder": "24",
       "Time": "12:00pm-1:00pm"
@@ -604,7 +604,7 @@
       "Day": "SAT",
       "Facilitator": "Rotation/Emily",
       "Group": "MEE Series",
-      "ItemInternalId": "3026de7d-f8c7-46f9-ae0f-f37af9f46eab",
+      "ItemInternalId": "32083917-c9e5-40ec-8fbf-4b25a7b6dfc1",
       "LocationOrZoom": "WDM",
       "SortOrder": "25",
       "Time": "9:00am-10:00am"
@@ -615,7 +615,7 @@
       "Day": "SAT",
       "Facilitator": "Rotation/Emily",
       "Group": "MEE Series",
-      "ItemInternalId": "91c3ca4c-4645-4649-bd12-20bcd797276f",
+      "ItemInternalId": "0ce3e540-2642-4600-9a9f-23ae6d2cc452",
       "LocationOrZoom": "WDM",
       "SortOrder": "26",
       "Time": "10:00am-11:00am"
@@ -626,7 +626,7 @@
       "Day": "SAT",
       "Facilitator": "Rotation/Emily",
       "Group": "MEE Series",
-      "ItemInternalId": "ee37e7db-d5d8-4f40-8ac3-c33cac5061c5",
+      "ItemInternalId": "c9c87c98-5feb-4638-91a8-de5bbc05f60f",
       "LocationOrZoom": "WDM",
       "SortOrder": "27",
       "Time": "11:00am-12:00pm"

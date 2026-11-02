@@ -1,3 +1,4 @@
+
 name: Update Schedule
 
 on:
@@ -7,6 +8,11 @@ on:
 permissions:
   contents: write
 
+# Prevent simultaneous schedule updates
+concurrency:
+  group: ucs-schedule-update
+  cancel-in-progress: false
+
 jobs:
   update-schedule:
     runs-on: ubuntu-latest
@@ -14,17 +20,50 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Write schedule.json
         env:
           SCHEDULE_JSON: ${{ toJson(github.event.client_payload) }}
         run: |
-          printf '%s\n' "$SCHEDULE_JSON" > schedule.json
+          printf '%s\n' "$SCHEDULE_JSON" > /tmp/ucs-schedule.json
 
-      - name: Commit updated schedule
+      - name: Commit and push updated schedule
         run: |
+          set -e
+
           git config user.name "UCS Schedule Automation"
           git config user.email "actions@github.com"
-          git add schedule.json
-          git diff --cached --quiet || git commit -m "Update group therapy schedule"
-          git push
+
+          for attempt in 1 2 3 4 5; do
+            echo "Push attempt $attempt"
+
+            # Get the latest version from GitHub
+            git fetch origin main
+            git reset --hard origin/main
+
+            # Apply the schedule received from Power Automate
+            cp /tmp/ucs-schedule.json schedule.json
+
+            git add schedule.json
+
+            if git diff --cached --quiet; then
+              echo "Schedule is already up to date."
+              exit 0
+            fi
+
+            git commit -m "Update group therapy schedule"
+
+            if git push origin HEAD:main; then
+              echo "Schedule successfully updated."
+              exit 0
+            fi
+
+            echo "Push conflict. Retrying..."
+            sleep 3
+          done
+
+          echo "Failed to push schedule after 5 attempts."
+          exit 1
